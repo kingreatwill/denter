@@ -1,0 +1,3 @@
+name: tour_lib_demo
+dependencies:
+  args: ^1.6.0
